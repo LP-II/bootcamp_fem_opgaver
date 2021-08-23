@@ -52,3 +52,8 @@ label {
 #buttons button:focus {
 	outline: none;
 }
+
+.glow{
+	color: rgb(232, 255, 230);
+	box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+}
